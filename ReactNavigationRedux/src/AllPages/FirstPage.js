@@ -15,12 +15,6 @@ class FirstPage extends PureComponent {
         tabBarLabel: '页面1',
         //drawerLabel:'页面1'
     };
-    // componentWillUpdate(){
-    //     alert(this.props.status);
-    // }
-    // componentDidUpdate(){
-    //     alert(this.props.status);
-    // }
     render() {
         return (
             <View style={styles.container}>
