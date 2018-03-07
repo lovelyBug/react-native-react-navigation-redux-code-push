@@ -5,7 +5,6 @@
  */
 
 import React, { Component } from 'react';
-import {AppState} from'react-native';
 import {Provider} from 'react-redux';
 import store from './src/store';
 import NavigatorPages from './src/AllPages/TabNavigatorPage';
